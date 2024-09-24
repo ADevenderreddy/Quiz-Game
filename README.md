@@ -1,1 +1,1 @@
-# Quiz-Game
+# Basic quiz consisting of 4 questions
